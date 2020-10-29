@@ -34,8 +34,3 @@ __Вот цифровое представление (так пакет лета
  
 ![задание](https://user-images.githubusercontent.com/70691206/97556785-f649b780-19ea-11eb-9436-6534e90b89bf.jpg)
  
-1) Через панель управления  
-![](https://user-images.githubusercontent.com/70691206/97562591-e9c95d00-19f2-11eb-8882-6a62494528c3.gif)  
-   
-2) Через консоль (_*ipconfig /all*_)
-![](https://user-images.githubusercontent.com/70691206/97565343-20a17200-19f7-11eb-8fcd-507590acc800.jpg)
