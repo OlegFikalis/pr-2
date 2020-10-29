@@ -22,7 +22,11 @@ __Тип: Echo-запрос, доп. информация не нужна__
 ![](https://user-images.githubusercontent.com/70691206/97542009-1a9b9900-19d7-11eb-9a1f-868d622a0320.jpg)
  
 __Вот цифровое представление (так пакет летает по сети)__  
-![](https://user-images.githubusercontent.com/70691206/97541384-2175dc00-19d6-11eb-8cfd-011f2bc32d7b.jpg)  
+![](https://user-images.githubusercontent.com/70691206/97541384-2175dc00-19d6-11eb-8cfd-011f2bc32d7b.jpg)
+ 
+
+ 
+...
 
 
 
