@@ -1,1 +1,6 @@
-![задание](https://user-images.githubusercontent.com/70691206/97531602-9260c800-19c5-11eb-8de7-b9bc0249a6cb.jpg)
+![задание](https://user-images.githubusercontent.com/70691206/97531602-9260c800-19c5-11eb-8de7-b9bc0249a6cb.jpg)  
+
+Мне было лень читать теорию, поэтому попытаюсь логически (и немного гугля) что-то понять  
+Насколько я понял, мне необходимо проанализировать пакет с протоколом ICMP  
+![1](https://user-images.githubusercontent.com/70691206/97532398-4ca4ff00-19c7-11eb-99de-fc59ab50caa9.jpg)  
+
