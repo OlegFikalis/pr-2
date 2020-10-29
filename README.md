@@ -33,4 +33,10 @@ __Вот цифровое представление (так пакет лета
 
  
 ![задание](https://user-images.githubusercontent.com/70691206/97556785-f649b780-19ea-11eb-9436-6534e90b89bf.jpg)
- 
+   
+Взял для примера сайт _http://vansamaofficial.com/_  
+1) **nslookup**  
+![](https://user-images.githubusercontent.com/70691206/97573483-e4701080-19fa-11eb-8ff2-c80b3f8ec2ba.jpg)  
+2) **ping**  
+![](https://user-images.githubusercontent.com/70691206/97573206-74618a80-19fa-11eb-95d3-5a89a655db18.jpg)  
+3) **tracert**
