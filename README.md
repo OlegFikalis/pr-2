@@ -7,7 +7,11 @@
    
    
 Я решил пойти другим путем и обменялся пактеами (кажется) с гуглом (не помню) 
-![](https://user-images.githubusercontent.com/70691206/97539734-8aa82000-19d3-11eb-923b-a0ced7d79672.jpg)
+![](https://user-images.githubusercontent.com/70691206/97539734-8aa82000-19d3-11eb-923b-a0ced7d79672.jpg)  
+   
+Вот цифровое представление (так пакет летает по сети)  
+![](https://user-images.githubusercontent.com/70691206/97541384-2175dc00-19d6-11eb-8cfd-011f2bc32d7b.jpg)  
+
 
 
 
