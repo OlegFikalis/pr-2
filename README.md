@@ -11,7 +11,7 @@
    
 Об полученном пакете можно узнать (из того, что я смог разобрать) следующее:  
 ![1](https://user-images.githubusercontent.com/70691206/97542482-da88e600-19d7-11eb-97fd-7941b37e81df.jpg)  
- 
+    
 Тип: Echo-запрос, доп. информация не нужна  
 ![](https://user-images.githubusercontent.com/70691206/97542009-1a9b9900-19d7-11eb-9a1f-868d622a0320.jpg)
    
