@@ -40,3 +40,4 @@ __Вот цифровое представление (так пакет лета
 2) **ping**  
 ![](https://user-images.githubusercontent.com/70691206/97573206-74618a80-19fa-11eb-95d3-5a89a655db18.jpg)  
 3) **tracert**
+![](https://user-images.githubusercontent.com/70691206/97573896-7bd56380-19fb-11eb-85ec-25509389ab67.jpg)  
